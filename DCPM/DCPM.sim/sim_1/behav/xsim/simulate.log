@@ -1,0 +1,18 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Time = 0 | Sample In =   0 | Diff Out =   0 | Sample Out =   0
+Time = 20000 | Sample In =  10 | Diff Out =   0 | Sample Out =   0
+Time = 25000 | Sample In =  10 | Diff Out =  10 | Sample Out =   0
+Time = 30000 | Sample In =  20 | Diff Out =  10 | Sample Out =   0
+Time = 35000 | Sample In =  20 | Diff Out =  10 | Sample Out =  10
+Time = 40000 | Sample In =  30 | Diff Out =  10 | Sample Out =  10
+Time = 50000 | Sample In =  25 | Diff Out =  10 | Sample Out =  10
+Time = 55000 | Sample In =  25 | Diff Out = 251 | Sample Out =  20
+Time = 60000 | Sample In =  15 | Diff Out = 251 | Sample Out =  20
+Time = 65000 | Sample In =  15 | Diff Out = 246 | Sample Out =   5
+Time = 70000 | Sample In =   5 | Diff Out = 246 | Sample Out =   5
+Time = 75000 | Sample In =   5 | Diff Out = 246 | Sample Out =  10
+Time = 80000 | Sample In =   0 | Diff Out = 246 | Sample Out =  10
+Time = 85000 | Sample In =   0 | Diff Out = 251 | Sample Out = 251
+Time = 95000 | Sample In =   0 | Diff Out =   0 | Sample Out =   5
+$finish called at time : 100 ns : File "C:/Users/heral/DCPM/DCPM.srcs/sim_1/new/DCPM_tb.v" Line 31
